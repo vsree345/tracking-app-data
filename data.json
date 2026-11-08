@@ -1,0 +1,196 @@
+{
+ "schema": 1,
+ "days": {},
+ "milestones": {
+  "p1-polity": {
+   "id": "p1-polity",
+   "title": "Polity: Laxmikanth first reading done",
+   "subject": "Polity",
+   "phase": 1,
+   "due": "2026-11-28",
+   "done": false,
+   "order": 1,
+   "updatedAt": 0
+  },
+  "p1-polity-pyq": {
+   "id": "p1-polity-pyq",
+   "title": "Polity PYQs 2013–2026 solved",
+   "subject": "Polity",
+   "phase": 1,
+   "due": "2026-11-29",
+   "done": false,
+   "order": 2,
+   "updatedAt": 0
+  },
+  "p1-modern": {
+   "id": "p1-modern",
+   "title": "Modern History: Spectrum + NCERT Themes III",
+   "subject": "Modern History",
+   "phase": 1,
+   "due": "2026-12-12",
+   "done": false,
+   "order": 3,
+   "updatedAt": 0
+  },
+  "p1-geo": {
+   "id": "p1-geo",
+   "title": "Geography: NCERT 11 & 12 + GC Leong, atlas mapping",
+   "subject": "Geography",
+   "phase": 1,
+   "due": "2027-01-02",
+   "done": false,
+   "order": 4,
+   "updatedAt": 0
+  },
+  "p1-eco": {
+   "id": "p1-eco",
+   "title": "Economy: NCERT Macro + Ramesh Singh / Sanjeev Verma",
+   "subject": "Economy",
+   "phase": 1,
+   "due": "2027-01-23",
+   "done": false,
+   "order": 5,
+   "updatedAt": 0
+  },
+  "p1-env": {
+   "id": "p1-env",
+   "title": "Environment: Shankar IAS done",
+   "subject": "Environment",
+   "phase": 1,
+   "due": "2027-02-06",
+   "done": false,
+   "order": 6,
+   "updatedAt": 0
+  },
+  "p1-budget": {
+   "id": "p1-budget",
+   "title": "Union Budget + Economic Survey 2027 key notes",
+   "subject": "Economy",
+   "phase": 1,
+   "due": "2027-02-14",
+   "done": false,
+   "order": 7,
+   "updatedAt": 0
+  },
+  "p1-ancient": {
+   "id": "p1-ancient",
+   "title": "Ancient, Medieval, Art & Culture covered",
+   "subject": "Art & Culture",
+   "phase": 1,
+   "due": "2027-02-20",
+   "done": false,
+   "order": 8,
+   "updatedAt": 0
+  },
+  "p1-scitech": {
+   "id": "p1-scitech",
+   "title": "Sci & Tech from current affairs + catch-up buffer",
+   "subject": "Science & Tech",
+   "phase": 1,
+   "due": "2027-02-28",
+   "done": false,
+   "order": 9,
+   "updatedAt": 0
+  },
+  "p1-anthro": {
+   "id": "p1-anthro",
+   "title": "Anthropology Paper 1: first pass of Akshat Jain",
+   "subject": "Anthropology P1",
+   "phase": 1,
+   "due": "2027-02-28",
+   "done": false,
+   "order": 10,
+   "updatedAt": 0
+  },
+  "p1-answers": {
+   "id": "p1-answers",
+   "title": "30 Mains answers written and reviewed",
+   "subject": "Answer Writing",
+   "phase": 1,
+   "due": "2027-02-28",
+   "done": false,
+   "order": 11,
+   "updatedAt": 0
+  },
+  "p2-rev1": {
+   "id": "p2-rev1",
+   "title": "Full GS revision round 1",
+   "subject": "Revision",
+   "phase": 2,
+   "due": "2027-03-31",
+   "done": false,
+   "order": 12,
+   "updatedAt": 0
+  },
+  "p2-mocks": {
+   "id": "p2-mocks",
+   "title": "20 full-length Prelims mocks taken and analysed",
+   "subject": "Mock Test",
+   "phase": 2,
+   "due": "2027-05-15",
+   "done": false,
+   "order": 13,
+   "updatedAt": 0
+  },
+  "p2-csat": {
+   "id": "p2-csat",
+   "title": "CSAT steady at 50%+ in 3 mocks in a row",
+   "subject": "CSAT",
+   "phase": 2,
+   "due": "2027-04-30",
+   "done": false,
+   "order": 14,
+   "updatedAt": 0
+  },
+  "p2-ca": {
+   "id": "p2-ca",
+   "title": "12 months of current affairs revised",
+   "subject": "Current Affairs",
+   "phase": 2,
+   "due": "2027-05-10",
+   "done": false,
+   "order": 15,
+   "updatedAt": 0
+  },
+  "p3-anthro2": {
+   "id": "p3-anthro2",
+   "title": "Anthropology Paper 2 complete",
+   "subject": "Anthropology P2",
+   "phase": 3,
+   "due": "2027-07-31",
+   "done": false,
+   "order": 16,
+   "updatedAt": 0
+  },
+  "p3-ethics": {
+   "id": "p3-ethics",
+   "title": "Ethics (GS4) theory + 20 case studies",
+   "subject": "Ethics",
+   "phase": 3,
+   "due": "2027-08-15",
+   "done": false,
+   "order": 17,
+   "updatedAt": 0
+  },
+  "p3-essay": {
+   "id": "p3-essay",
+   "title": "8 full essays written",
+   "subject": "Essay",
+   "phase": 3,
+   "due": "2027-08-31",
+   "done": false,
+   "order": 18,
+   "updatedAt": 0
+  }
+ },
+ "tests": {},
+ "settings": {
+  "prelims": "2027-05-23",
+  "mains": "2027-09-17",
+  "weekday": 2.5,
+  "weekend": 7,
+  "start": "2026-11-08",
+  "updatedAt": 0
+ },
+ "exportedAt": "2026-11-08T06:09:52.978Z"
+}

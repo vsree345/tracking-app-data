@@ -23,7 +23,8 @@
    "due": "2026-11-28",
    "done": false,
    "order": 1,
-   "updatedAt": 0
+   "updatedAt": 1794199255665,
+   "doneAt": null
   },
   "p1-polity-pyq": {
    "id": "p1-polity-pyq",
@@ -103,7 +104,8 @@
    "due": "2027-02-28",
    "done": false,
    "order": 9,
-   "updatedAt": 0
+   "updatedAt": 1794199251326,
+   "doneAt": null
   },
   "p1-anthro": {
    "id": "p1-anthro",
@@ -205,5 +207,5 @@
   "start": "2026-11-08",
   "updatedAt": 0
  },
- "exportedAt": "2026-11-09T04:38:11.572Z"
+ "exportedAt": "2026-11-09T11:50:02.547Z"
 }

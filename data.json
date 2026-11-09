@@ -1,6 +1,19 @@
 {
  "schema": 1,
- "days": {},
+ "days": {
+  "2026-11-08": {
+   "date": "2026-11-08",
+   "sessions": [],
+   "deletedSessions": [],
+   "checks": {},
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "note": "Did not start today anything\n",
+   "updatedAt": 1794199086639
+  }
+ },
  "milestones": {
   "p1-polity": {
    "id": "p1-polity",
@@ -192,5 +205,5 @@
   "start": "2026-11-08",
   "updatedAt": 0
  },
- "exportedAt": "2026-11-08T06:09:52.978Z"
+ "exportedAt": "2026-11-09T04:38:11.572Z"
 }

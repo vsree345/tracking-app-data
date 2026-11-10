@@ -12,6 +12,25 @@
    },
    "note": "Did not start today anything\n",
    "updatedAt": 1794199086639
+  },
+  "2026-11-09": {
+   "date": "2026-11-09",
+   "sessions": [
+    {
+     "id": "mwa0mrcp0jqbz",
+     "subject": "Polity",
+     "min": 60,
+     "at": 1794274368505,
+     "manual": true
+    }
+   ],
+   "deletedSessions": [],
+   "checks": {},
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "updatedAt": 1794274374297
   }
  },
  "milestones": {
@@ -207,5 +226,5 @@
   "start": "2026-11-08",
   "updatedAt": 0
  },
- "exportedAt": "2026-11-09T11:50:02.547Z"
+ "exportedAt": "2026-11-10T01:33:40.158Z"
 }

@@ -30,7 +30,8 @@
     "att": 0,
     "cor": 0
    },
-   "updatedAt": 1794274374297
+   "updatedAt": 1794274503299,
+   "sleep": 6
   }
  },
  "milestones": {
@@ -226,5 +227,5 @@
   "start": "2026-11-08",
   "updatedAt": 0
  },
- "exportedAt": "2026-11-10T01:33:40.158Z"
+ "exportedAt": "2026-11-10T01:35:34.010Z"
 }

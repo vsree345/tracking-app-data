@@ -30,8 +30,12 @@
     "att": 0,
     "cor": 0
    },
-   "updatedAt": 1794274503299,
-   "sleep": 6
+   "updatedAt": 1794274570721,
+   "sleep": 6,
+   "work": 8,
+   "energy": 4,
+   "focus": 4,
+   "note": "Started polity with history...need to complete 3 chapters at any cost"
   }
  },
  "milestones": {
@@ -227,5 +231,5 @@
   "start": "2026-11-08",
   "updatedAt": 0
  },
- "exportedAt": "2026-11-10T01:35:34.010Z"
+ "exportedAt": "2026-11-10T01:37:56.978Z"
 }

@@ -36,6 +36,18 @@
    "energy": 4,
    "focus": 4,
    "note": "Started polity with history...need to complete 3 chapters at any cost"
+  },
+  "2026-11-10": {
+   "date": "2026-11-10",
+   "sessions": [],
+   "deletedSessions": [],
+   "checks": {},
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "note": "No prep today had work and had to help dad pack for his work trip tom",
+   "updatedAt": 1794332466246
   }
  },
  "milestones": {
@@ -231,5 +243,5 @@
   "start": "2026-11-08",
   "updatedAt": 0
  },
- "exportedAt": "2026-11-10T01:37:56.978Z"
+ "exportedAt": "2026-11-10T17:41:10.046Z"
 }

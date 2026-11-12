@@ -48,6 +48,18 @@
    },
    "note": "No prep today had work and had to help dad pack for his work trip tom",
    "updatedAt": 1794332466246
+  },
+  "2026-11-12": {
+   "date": "2026-11-12",
+   "sessions": [],
+   "deletedSessions": [],
+   "checks": {},
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "note": "Have to start studying today...did not studying at all",
+   "updatedAt": 1794499286138
   }
  },
  "milestones": {
@@ -237,11 +249,11 @@
  "tests": {},
  "settings": {
   "prelims": "2027-05-23",
-  "mains": "2027-09-17",
+  "mains": "2027-08-20",
   "weekday": 2.5,
   "weekend": 7,
   "start": "2026-11-08",
-  "updatedAt": 0
+  "updatedAt": 1794489617471
  },
- "exportedAt": "2026-11-10T17:41:10.046Z"
+ "exportedAt": "2026-11-12T16:01:30.232Z"
 }

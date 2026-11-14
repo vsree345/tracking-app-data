@@ -73,12 +73,14 @@
     }
    ],
    "deletedSessions": [],
-   "checks": {},
+   "checks": {
+    "rev": true
+   },
    "mcq": {
     "att": 0,
     "cor": 0
    },
-   "updatedAt": 1794666419995,
+   "updatedAt": 1794666426877,
    "energy": 3,
    "focus": 4,
    "note": "Completed 2 acts of the historical chapter in polity l"
@@ -277,5 +279,5 @@
   "start": "2026-11-08",
   "updatedAt": 1794489617471
  },
- "exportedAt": "2026-11-14T14:27:01.869Z"
+ "exportedAt": "2026-11-14T14:27:10.698Z"
 }

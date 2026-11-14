@@ -60,6 +60,28 @@
    },
    "note": "Have to start studying today...did not studying at all",
    "updatedAt": 1794499286138
+  },
+  "2026-11-13": {
+   "date": "2026-11-13",
+   "sessions": [
+    {
+     "id": "mwgi1df2nptx9",
+     "subject": "Polity",
+     "min": 60,
+     "at": 1794666400814,
+     "manual": true
+    }
+   ],
+   "deletedSessions": [],
+   "checks": {},
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "updatedAt": 1794666419995,
+   "energy": 3,
+   "focus": 4,
+   "note": "Completed 2 acts of the historical chapter in polity l"
   }
  },
  "milestones": {
@@ -255,5 +277,5 @@
   "start": "2026-11-08",
   "updatedAt": 1794489617471
  },
- "exportedAt": "2026-11-12T16:01:30.232Z"
+ "exportedAt": "2026-11-14T14:27:01.869Z"
 }

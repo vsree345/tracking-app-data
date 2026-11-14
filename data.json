@@ -86,6 +86,23 @@
    "note": "Completed 2 acts of the historical chapter in polity l",
    "sleep": 10,
    "work": 7
+  },
+  "2026-11-14": {
+   "date": "2026-11-14",
+   "sessions": [],
+   "deletedSessions": [],
+   "checks": {
+    "rev": true
+   },
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "updatedAt": 1794676181877,
+   "work": 0,
+   "energy": 4,
+   "focus": 3,
+   "note": "I did not study anything just revised yesrerdays 2 chapters...did not start anthro at all...got to put more effort. "
   }
  },
  "milestones": {
@@ -281,5 +298,5 @@
   "start": "2026-11-08",
   "updatedAt": 1794489617471
  },
- "exportedAt": "2026-11-14T14:27:43.360Z"
+ "exportedAt": "2026-11-14T17:09:44.165Z"
 }

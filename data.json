@@ -103,6 +103,24 @@
    "energy": 4,
    "focus": 3,
    "note": "I did not study anything just revised yesrerdays 2 chapters...did not start anthro at all...got to put more effort. "
+  },
+  "2026-11-25": {
+   "date": "2026-11-25",
+   "sessions": [],
+   "deletedSessions": [],
+   "checks": {
+    "news": true
+   },
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "updatedAt": 1795632534814,
+   "sleep": 0,
+   "work": 0,
+   "energy": 4,
+   "focus": 4,
+   "note": "I read the newspaper thoroughly....got a few changes in the plan \n"
   }
  },
  "milestones": {
@@ -298,5 +316,5 @@
   "start": "2026-11-08",
   "updatedAt": 1794489617471
  },
- "exportedAt": "2026-11-14T17:09:44.165Z"
+ "exportedAt": "2026-11-25T18:48:58.018Z"
 }

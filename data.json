@@ -121,6 +121,23 @@
    "energy": 4,
    "focus": 4,
    "note": "I read the newspaper thoroughly....got a few changes in the plan \n"
+  },
+  "2026-11-26": {
+   "date": "2026-11-26",
+   "sessions": [],
+   "deletedSessions": [],
+   "checks": {
+    "news": true,
+    "ca": true,
+    "rev": true
+   },
+   "mcq": {
+    "att": 0,
+    "cor": 0
+   },
+   "updatedAt": 1795746526727,
+   "energy": 4,
+   "focus": 3
   }
  },
  "milestones": {
@@ -316,5 +333,5 @@
   "start": "2026-11-08",
   "updatedAt": 1794489617471
  },
- "exportedAt": "2026-11-25T18:48:58.018Z"
+ "exportedAt": "2026-11-27T02:28:51.251Z"
 }
